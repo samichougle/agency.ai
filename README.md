@@ -13,5 +13,3 @@ Tailwind CSS Integration: Utilizes utility-first CSS for rapid UI development.
 Modern UI/UX: Incorporates contemporary design trends for an engaging user experience.
 
 The live version of the project can be accessed here: agency-ai-eight-eta.vercel.app
-
-This project serves as a testament to the developer's capability to build professional-grade web applications using modern frontend technologies.
